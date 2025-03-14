@@ -32,7 +32,7 @@ This project explores a **Netflix dataset**, focusing on analyzing movie duratio
 ## 🚀 How to Use This Project:
 
 ### You can visualize it through the "notebook.ipynb" file
-
+## OR:
 ### 1️⃣ Install Dependencies
 ```sh
 pip install pandas matplotlib
